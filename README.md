@@ -1,29 +1,22 @@
 # N64Digital Mini To Full HDMI Adapter
 
-<img src="./Pics/01.jpg" width="300px" />
-<img src="./Pics/09.jpg" width="300px" />
+<img src="./Pics/01.jpg" width="300px" /><img src="./Pics/09.jpg" width="300px" />
 
 &nbsp;
 
-<img src="./Pics/02.jpg" width="300px" />
-<img src="./Pics/03.jpg" width="300px" />
+<img src="./Pics/02.jpg" width="300px" /><img src="./Pics/03.jpg" width="300px" />
 
 &nbsp;
 
-<img src="./Pics/12.jpg" width="300px" />
-<img src="./Pics/14.jpg" width="300px" />
-<img src="./Pics/15.jpg" width="300px" />
-
-<img src="./Pics/17.jpg" width="300px" />
+<img src="./Pics/12.jpg" width="300px" /><img src="./Pics/14.jpg" width="300px" />
+<img src="./Pics/15.jpg" width="300px" /><img src="./Pics/17.jpg" width="300px" />
 
 
 This adapter is helpful if you have your Nintendo 64 modded with N64Digital no-cut and you want to output HDMI and analog video at the same (or if you outright hate mini HDMI).
 
 Used in combination with my [N64D2WiiComp](https://github.com/jeffqchen/N64D2WiiComp) adapter, you could ouput analogue YPbPr component video and digial HDMI signal at the same time.
 
-<img src="./Pics/18.jpg" width="300px" />
-<img src="./Pics/19.jpg" width="300px" />
-<img src="./Pics/20.jpg" width="300px" />
+<img src="./Pics/18.jpg" width="300px" /><img src="./Pics/19.jpg" width="300px" /><img src="./Pics/20.jpg" width="300px" />
 
 ---------
 
