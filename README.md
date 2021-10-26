@@ -43,16 +43,16 @@ Print with the ports facing up and with support.
 
 Cable contacts face up. Put the cable in place, then tuck one board on each side.
 
+Try to bend the cable as indicated in the picture, but don't fold them harshly.
+
 <img src="./Pics/06.jpg" width="600px" />
 
-Try to bend the cable as indicated in the picture, but don't fold them harshly.
+Then, slowly press the two halves together. They should mate perfectly.
 
 <img src="./Pics/07.jpg" width="600px" />
 <img src="./Pics/08.jpg" width="600px" />
 
-Then, slowly press the two halves together. They should mate perfectly.
+Lastly, use the screws to finish it up.
 
 <img src="./Pics/10.jpg" width="600px" />
 <img src="./Pics/11.jpg" width="600px" />
-
-Lastly, use the screws to finish it up.
