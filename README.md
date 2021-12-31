@@ -22,7 +22,7 @@ Output analogue YPbPr component video and digital HDMI signal at the same time.
 
 <img src="./Pics/18.jpg" width="200px" /><img src="./Pics/19.jpg" width="200px" />
 
-### [N64D2VGA](../../../SNES2VGA/N64D2VGA)
+### [N64D2VGA](../../../SNES2VGA/tree/main/N64D2VGA)
 
 Output analogue RGBS video and digital HDMI signal at the same time.
 
