@@ -32,11 +32,9 @@ Output analogue RGBS video and digital HDMI signal at the same time.
 
 ## Parts
 
-HDMI Ports - Buy option C1 and A4, plus a 5cm fpv cable.
-- https://www.aliexpress.com/item/32914942505.html
+- HDMI Ports - Buy option C1 and A4, plus a 5cm fpv cable. - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HDMI/Modular/info.md)
 
-[2x pairs] M2x20mm screw and nut.
-- https://www.amazon.com/gp/product/B014OO5KQG
+- [2x ] M2x20mm screw and nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
 ---------
 
